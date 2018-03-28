@@ -3,7 +3,7 @@
 
 **Input**：1.images of each frame
 
-​                  2.dataset of each detections,  including frame,$x_{min},x_{max} ,y_{min},y_{max}$...
+​                  2.dataset of each detections,  including frame,$x_{min}$,$x_{max}$ ,$y_{min}$,$y_{max}$...
 
 **Output**: Add an ID for each detection according  to the terminal input.
 
